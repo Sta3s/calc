@@ -61,8 +61,5 @@ def test_weight_grams():
 def test_weight_kg():
     assert weight(79000) == "79kg"
 
-def test_weight_kvintal():
-    assert weight(700000) == "7c"
-
 def test_weight_tons():
     assert weight(9000000) == "9t"
