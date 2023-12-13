@@ -1,6 +1,6 @@
 import pytest
 
-from calc import celsius_to_fahrenheit, fuel_consumption, megabit_to_megabyte, sigma, weight
+from calc import celsius_to_fahrenheit, fuel_consumption, megabyte_to_megabit, sigma, weight
 
 #
 # Degvielas patēriņš
