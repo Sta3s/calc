@@ -18,13 +18,13 @@ def test_fuel_consumption_big():
 # Mb to MB
 #
 def test_megabit_to_megabyte_zero():
-    assert megabit_to_megabyte(0) == 0
+    assert megabyte_to_megabit(0) == 0
 
 def test_megabit_to_megabyte_small():
-    assert megabit_to_megabyte(32) == 256
+    assert megabyte_to_megabit(32) == 256
 
 def test_megabit_to_megabyte_medium():
-    assert megabit_to_megabyte(1024) == 8192
+    assert megabyte_to_megabit(1024) == 8192
 
 #
 # Celsius to Fahrenheit
