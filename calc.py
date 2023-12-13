@@ -1,6 +1,6 @@
 
 # konvertē datu mērvienības
-def megabit_to_megabyte(megabit):
+def megabyte_to_megabit(megabyte):
    result = 0
    return result
 
